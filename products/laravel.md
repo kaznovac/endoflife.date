@@ -4,31 +4,31 @@ layout: post
 permalink: /laravel
 category: framework
 releasePolicyLink: https://laravel.com/docs/9.x/releases#support-policy
-changelogTemplate: https://laravel.com/docs/__RELEASE_CYCLE__/releases
+changelogTemplate: https://laravel.com/docs/__RELEASE_CYCLE__.x/releases
 activeSupportColumn: true
 command: composer show laravel/framework|grep versions
 releaseDateColumn: true
 sortReleasesBy: 'releaseCycle'
 releases:
-  - releaseCycle: "9.x"
+  - releaseCycle: "9"
     release: 2022-02-08
     support: 2024-02-08
     eol: 2025-02-08
     latest: 9.3.1
     lts: true
-  - releaseCycle: "8.x"
+  - releaseCycle: "8"
     release: 2020-09-08
     support: 2022-07-26
     eol: 2023-01-24
     latest: 8.83.2
     lts: false
-  - releaseCycle: "7.x"
+  - releaseCycle: "7"
     release: 2020-03-03
     support: 2020-10-06
     eol: 2021-03-03
     latest: 7.30.6
     lts: false
-  - releaseCycle: "6.x"
+  - releaseCycle: "6"
     release: 2019-09-03
     support: 2022-01-25
     eol: 2022-09-06

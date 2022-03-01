@@ -11,11 +11,13 @@ eolColumn: Support
 releaseDateColumn: true
 sortReleasesBy: 'release'
 releases:
-  - releaseCycle: 'Amazon Linux AMI'
+  - releaseCycle: '1'
+    releaseLabel: 'Amaon Linux AMI'
     release: "2010-09-14"
     eol: 2020-12-31
     latest: "2018.03"
-  - releaseCycle: 'Amazon Linux 2'
+  - releaseCycle: '2'
+    releaseLabel: 'Amazon Linux 2'
     release: 2017-12-19
     eol: 2023-06-30
     latest: "2.0.20211223.0"
