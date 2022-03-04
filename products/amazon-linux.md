@@ -18,8 +18,8 @@ releases:
   - releaseCycle: 'Amazon Linux 2'
     release: 2017-12-19
     eol: 2023-06-30
-    latest: "2.0.20220218.1"
-    link: https://aws.amazon.com/amazon-linux-2/release-notes/
+    latest: "2.0.20220207.0"
+    link: https://docs.aws.amazon.com/AL2/latest/relnotes/relnotes-20220207.html
 ---
 
 > [Amazon Linux][al2] is a Linux server operating system from Amazon Web Services (AWS) available as an Amazon Machine Image (AMI) for use on Amazon Elastic Compute Cloud ([Amazon EC2](https://aws.amazon.com/ec2/)). It is also available as a [Docker container image](https://hub.docker.com/_/amazonlinux/) and as a [virtual machine image](https://cdn.amazonlinux.com/os-images/latest/) for use on Kernel-based Virtual Machine (KVM), Oracle VM VirtualBox, Microsoft Hyper-V, and VMware ESXi.
